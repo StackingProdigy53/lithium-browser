@@ -3,7 +3,7 @@
     <p>
         <img src="resources/branding/app_icon/raw.png"
             title="Helium" alt="Helium logo" width="120" />
-        <h1>Helium</h1>
+        <h1>Lithium</h1>
     </p>
     <p width="120">
         The Chromium-based web browser made for people, with love.
@@ -21,26 +21,26 @@
 > Helium is still in beta, so unexpected issues may occur. We are not responsible
 for any damage caused by usage of beta software.
 
-Best way to download Helium is to open [helium.computer](https://helium.computer/) on your computer.
+Best way to download Lithium is to open [lithium.computer](https://lithium.computer/) on your computer.
 It'll pick the right build for your OS and architecture automatically.
 
 If you wish to download builds "straight from the tap" with all options in one place,
 you can do it on GitHub in the Releases section in each platform's repo:
-- [macOS](https://github.com/imputnet/helium-macos/releases/latest)
-- [Linux](https://github.com/imputnet/helium-linux/releases/latest) (AppImage)
-- [Windows](https://github.com/imputnet/helium-windows/releases/latest) (no auto-updates yet)
+- [macOS](https://github.com/imputnet/lithium-macos/releases/latest)
+- [Linux](https://github.com/imputnet/lithium-linux/releases/latest) (AppImage)
+- [Windows](https://github.com/imputnet/lithium-windows/releases/latest) (no auto-updates yet)
 
 ## Platform packaging
 Helium is available on all major desktop platforms, with entirety of source code
 for all of them published here:
-- [Helium for macOS](https://github.com/imputnet/helium-macos)
-- [Helium for Linux](https://github.com/imputnet/helium-linux)
-- [Helium for Windows](https://github.com/imputnet/helium-windows)
+- [lithium for macOS](https://github.com/imputnet/lithium-macos)
+- [lithium for Linux](https://github.com/imputnet/lithium-linux)
+- [lithium for Windows](https://github.com/imputnet/lithium-windows)
 
-## Other Helium repos
+## Other Lithium repos
 Along with the main repo and platform packaging, these projects are also a part of Helium:
-- [Helium services](https://github.com/imputnet/helium-services)
-- [Helium onboarding](https://github.com/imputnet/helium-onboarding) (the onboarding page seen in Helium at `helium://setup`)
+- [Lithium services](https://github.com/imputnet/helium-services)
+- [Lithium onboarding](https://github.com/imputnet/lithium-onboarding) (the onboarding page seen in lithium at `helium://setup`)
 - [uBlock Origin packaging](https://github.com/imputnet/ublock-origin-crx)
 
 ## Credits
