@@ -18,7 +18,7 @@
 
 ## Downloads
 > [!NOTE]
-> Helium is still in beta, so unexpected issues may occur. We are not responsible
+> Lithium is still in beta, so unexpected issues may occur. We are not responsible
 for any damage caused by usage of beta software.
 
 Best way to download Lithium is to open [lithium.computer](https://lithium.computer/) on your computer.
