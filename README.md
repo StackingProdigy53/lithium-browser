@@ -17,7 +17,6 @@
 </div>
 
 ## Downloads
-> [!NOTE]
 > Lithium is still in beta, so unexpected issues may occur. We are not responsible
 for any damage caused by usage of beta software.
 
@@ -42,6 +41,16 @@ Along with the main repo and platform packaging, these projects are also a part 
 - [Lithium services](https://github.com/imputnet/helium-services)
 - [Lithium onboarding](https://github.com/imputnet/lithium-onboarding) (the onboarding page seen in lithium at `helium://setup`)
 - [uBlock Origin packaging](https://github.com/imputnet/ublock-origin-crx)
+
+## Overhaul and theming roadmap
+If you want to contribute to the UI/skin overhaul (including Windows theming and
+WindowBlinds 11 compatibility), see the plan here:
+- [Full overhaul plan](docs/OVERHAUL.md)
+
+## Building Lithium from source
+This repo provides the patches/resources required to produce Lithium builds. For
+the full build flow and packaging pointers, see:
+- [Build guide](docs/BUILDING.md)
 
 ## Credits
 ### ungoogled-chromium
@@ -68,8 +77,3 @@ repositories is licensed under GPL-3.0. See [LICENSE](LICENSE).
 Any content imported from other projects retains its original license (for
 example, any original unmodified code imported from ungoogled-chromium remains
 licensed under their [BSD 3-Clause license](LICENSE.ungoogled_chromium)).
-
-## More documentation (soon)
-> [!NOTE]
-> We will add more documentation along with design and motivation guidelines in the future.
-All docs will be linked here along with other related content.
